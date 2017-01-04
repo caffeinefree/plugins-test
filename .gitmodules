@@ -1,0 +1,3 @@
+[submodule "Caffeine-Free/js"]
+	path = Caffeine-Free/js
+	url = git@github.com:caffeinefree/plugins.git
